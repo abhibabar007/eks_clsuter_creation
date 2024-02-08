@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../k8s"
+		},
+		{
+			"path": "../Terraform EKS"
+		}
+	]
+}
